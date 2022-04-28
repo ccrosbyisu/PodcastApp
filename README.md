@@ -1,7 +1,7 @@
 # PodcastApp
 Podcast app made in React-Native as a final project for my cloud computing course
 
-Development Enviornment Setup(React Native CLI Quickstart:
+Development Enviornment Setup(React Native CLI Quickstart):
 https://reactnative.dev/docs/environment-setup
 
 If XCode gives Buildtime error: Unable to load contents of file list:
