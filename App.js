@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React, { Component} from "react"
 
 import {
   AsyncStorage,
@@ -14,6 +14,7 @@ import {
 import { DOMParser } from "xmldom"
 import $ from 'jquery'
 import SoundPlayer from "react-native-sound-player"
+import { useState } from "react/cjs/react.production.min"
 
 class App extends Component {
   state = {
