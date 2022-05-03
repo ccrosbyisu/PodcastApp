@@ -2,11 +2,12 @@
 Podcast app made in React-Native as a final project for my cloud computing course
 
 Development Enviornment Setup(React Native CLI Quickstart):
+https://reactnative.dev/docs/environment-setup
 ![image](https://user-images.githubusercontent.com/98552375/166547681-67ecef46-7464-4172-b0f7-ef95123c096e.png)
 ![image](https://user-images.githubusercontent.com/98552375/166548721-475ebe13-7990-47ad-9076-ba3ecbda1593.png)
 
 note: on Mac you can install dependencies with homebrew or NPM (I personally used NPM)
-https://reactnative.dev/docs/environment-setup
+
 
 IOS:
 
