@@ -20,7 +20,7 @@ If XCode gives Buildtime error: Unable to load contents of file list:
 Android:
 1. Open directory on project folder in terminal and run npm install
 2. Run npx react-native run-android
-3. Android Studio’s simulator should start up and being to install the app
+3. Android Studio’s simulator should start up and begin to install the app
 
 ![image](https://user-images.githubusercontent.com/98552375/165719194-6ed57c1f-8125-4d5f-9ead-8297c7b9c9e7.png)
 ![image](https://user-images.githubusercontent.com/98552375/165719349-c5d37eea-c916-4cd9-9fc8-091f2c72f2db.png)
