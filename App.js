@@ -40,7 +40,9 @@ class App extends Component {
       subscriptions: parsed,
       tab: parsed.length > 0 ? "listen" : "search",
     })
+   // this.clearStorage()
   }
+  
 
   render() {
     const { tab } = this.state
@@ -51,6 +53,14 @@ class App extends Component {
 
     return this.renderListen()
   }
+ /* clearStorage = async () => {
+    try {
+      await AsyncStorage.clear()
+      alert('Storage successfully cleared!')
+    } catch (e) {
+      alert('Failed to clear the async storage.')
+    }
+  }*/
 
   onChangeTerms = e => {
     this.setState({ terms: e.nativeEvent.text })
