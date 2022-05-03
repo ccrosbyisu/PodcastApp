@@ -4,6 +4,8 @@ Podcast app made in React-Native as a final project for my cloud computing cours
 Development Enviornment Setup(React Native CLI Quickstart):
 https://reactnative.dev/docs/environment-setup
 
+IOS:
+
 If XCode gives Buildtime error: Unable to load contents of file list:
 1.	Open terminal under project folder (ios folder)
 2.	pod deintegrate
@@ -14,7 +16,7 @@ If XCode gives Buildtime error: Unable to load contents of file list:
 
 
 Android:
-1. Open directory on project folder and run npm install
+1. Open directory on project folder in terminal and run npm install
 2. Run npx react-native run-android
 3. Android Studio’s simulator should start up and being to install the app
 
